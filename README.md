@@ -6,9 +6,7 @@
 Gradle, JPA, Junit, IntelliJ 활용해보기
 
 ### 기능 :
-구글,네이버,카카오 소셜 로그인
-
-REST API를 이용한 간단한 CRUD 게시판
+구글,네이버 소셜 로그인 CRUD 게시판
 
 ### 기술 사용
 + Java 
