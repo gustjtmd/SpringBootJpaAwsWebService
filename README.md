@@ -1,7 +1,7 @@
 # springboot + Oauth2
 
 ### 목적 :
-SpringSecurity + Oauth2 로그인 구축
+로그인 구축
 
 Gradle, JPA, Junit, IntelliJ 활용해보기
 
@@ -15,12 +15,7 @@ REST API를 이용한 간단한 CRUD 게시판
 + SpringBoot
 + Gradle
 + JPA
-+ lombok
-+ Junit 단위테스트
-+ mustache(머스테치)
-+ javascript, jquery, bootstrap
-+ SpringSecurity + OAuth2
-+ Git, GitHub
+
 
 ### 메인 페이지
 
